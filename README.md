@@ -1,52 +1,35 @@
 # 👋 Hi, I'm Prathamesh Vardhave  
 **Computer Engineering Student (Honours in Data Science) | ML & DS Enthusiast | Python | PostgreSql | MongoDB | NLP**
-
 ---
 
 ### 📫 Email  
 **prathameshvardhave24@gmail.com**
-
 ---
 
 ### 🔧 What I'm currently working on  
 - Building projects in **Machine Learning, NLP, and Data Analysis**  
 - Creating end-to-end ML pipelines (data cleaning → model building → evaluation)
-
 ---
 
-### 📚 What I'm currently learning  
-- **Deep Learning (Neural Networks, CNNs)**
-- **Advanced SQL & PostgreSQL**
+### 📚 What I'm currently learning 
 - **NLP Techniques (Tokenization, Lemmatization, Word Embeddings)**
 - **JLPT N5 Japanese**
-
 ---
 
 ### 🤝 Looking to collaborate on  
 - ML & Data Science projects  
-- NLP beginner/intermediate projects  
-- Python automation tasks  
-
+- NLP beginner/intermediate projects  , Python automation tasks  - 
 ---
 
 ### 🤔 Looking for help with  
 - Improving my open-source contributions  
 - Building strong ML project documentation  
-
 ---
 
 ### 💬 Ask me about  
 - Machine Learning basics  
 - Data preprocessing  
-- Python (Pandas, NumPy, Sklearn)  
-- SQL / PostgreSQL
-- MongoDB
-
----
-
-### ⚡ Fun fact  
-I love exploring AI, building data models, and I enjoy learning languages — currently Japanese 🇯🇵.
-
+- Python (Pandas, NumPy, Sklearn) , SQL / PostgreSQL , MongoDB
 ---
 
 ## 🌐 Socials:
