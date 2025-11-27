@@ -2,8 +2,7 @@
 **Computer Engineering Student (Honours in Data Science) | ML & DS Enthusiast | Python | PostgreSql | MongoDB | NLP**
 ---
 
-### 📫 Email  
-**prathameshvardhave24@gmail.com**
+### 📫 Email - prathameshvardhave24@gmail.com
 ---
 
 ### 🔧 What I'm currently working on  
