@@ -1,33 +1,17 @@
-# 👋 Hi, I'm Prathamesh Vardhave  
-**Computer Engineering Student (Honours in Data Science) | ML & DS Enthusiast | Python | PostgreSql | MongoDB | NLP**
----
+<h1 align="center">Hi 👋, I'm Prathamesh Vardhave</h1>
+<h3 align="center">A passionate Data Science Student from India</h3><br>
 
-### 📫 Email - prathameshvardhave24@gmail.com
----
+<img align="right" width="380" alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWxsdnVncnd3ZG9wZXB2MWV0aDcwcHZ1b2tmcHR1cWIxbTdta3docSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/qgQUggAC3Pfv687qPC/source.gif">
 
-### 🔧 What I'm currently working on  
-- Building projects in **Machine Learning, NLP, and Data Analysis**  
-- Creating end-to-end ML pipelines (data cleaning → model building → evaluation)
----
+<ul>
+  <li>🔭 Working on <b>ML, NLP, and Data Analysis</b></li><br>
+  <li>🌱 Learning <b>NLP & JLPT N5 Japanese</b></li><br>
+  <li>👯 Collaboration: <b>ML/NLP beginner-intermediate projects</b></li><br>
+  <li>🤝 Help with <b>open-source & documentation</b></li><br>
+  <li>💬 Ask me about <b>Python,PostgreSql ,MongoDB, ML</b></li><br>
+  <li>📫 Email: <b>prathameshvardhave24@gmail.com</b></li>
+</ul><br><br><br>
 
-### 📚 What I'm currently learning 
-- **NLP Techniques (Tokenization, Lemmatization, Word Embeddings)**
-- **JLPT N5 Japanese**
----
-
-### 🤝 Looking to collaborate on  
-- ML & Data Science projects  
-- NLP beginner/intermediate projects  , Python automation tasks  - 
----
-
-### 🤔 Looking for help with  
-- Improving my open-source contributions  
-- Building strong ML project documentation  
----
-
-### 💬 Ask me about  
-- Machine Learning basics ,  Data preprocessing , Python (Pandas, NumPy, Sklearn) , SQL / PostgreSQL , MongoDB
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-vardhave) 
