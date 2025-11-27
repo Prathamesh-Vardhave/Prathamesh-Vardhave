@@ -27,9 +27,7 @@
 ---
 
 ### 💬 Ask me about  
-- Machine Learning basics  
-- Data preprocessing  
-- Python (Pandas, NumPy, Sklearn) , SQL / PostgreSQL , MongoDB
+- Machine Learning basics ,  Data preprocessing , Python (Pandas, NumPy, Sklearn) , SQL / PostgreSQL , MongoDB
 ---
 
 ## 🌐 Socials:
